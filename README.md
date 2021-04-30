@@ -1,3 +1,3 @@
-# MachineLearning_Examples
+# Machine Learning Examples
 
 This repository consists of some machine learning algortihms and their demonstrations. All codes are in the python notebook format.
